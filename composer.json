@@ -1,0 +1,12 @@
+{
+    "name": "yourcompany/freescout-kanban-auto-refresh",
+    "description": "Auto-refresh Kanban boards for FreeScout",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Modules\\KanbanAutoRefresh\\": ""
+        }
+    },
+    "minimum-stability": "stable"
+}

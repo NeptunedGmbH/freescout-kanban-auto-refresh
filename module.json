@@ -1,0 +1,17 @@
+{
+    "name": "Kanban Auto Refresh",
+    "alias": "kanbanautorefresh",
+    "description": "Automatically refreshes Kanban boards at a configurable interval while the page is open.",
+    "keywords": ["kanban", "refresh", "auto-refresh"],
+    "version": "1.0.0",
+    "active": 1,
+    "order": 1000,
+    "providers": [
+        "Modules\\KanbanAutoRefresh\\Providers\\KanbanAutoRefreshServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requiredModules": {
+        "kanban": "1.0.0"
+    }
+}
