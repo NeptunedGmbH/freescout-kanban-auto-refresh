@@ -6,6 +6,9 @@
     "version": "1.0.0",
     "active": 1,
     "order": 1000,
+    "latestVersionUrl": "https://raw.githubusercontent.com/NeptunedGmbH/freescout-kanban-auto-refresh/main/module.json",
+    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/archive/refs/tags/v1.0.0.zip",
+    "changelogUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases",
     "providers": [
         "Modules\\KanbanAutoRefresh\\Providers\\KanbanAutoRefreshServiceProvider"
     ],
