@@ -9,8 +9,8 @@
     "active": 1,
     "order": 1000,
     "detailsUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.3",
-    "latestVersionUrl": "https://raw.githubusercontent.com/NeptunedGmbH/freescout-kanban-auto-refresh/refs/heads/main/module.json",
-    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/archive/refs/tags/v1.0.3.zip",
+    "latestVersionUrl": "https://raw.githubusercontent.com/NeptunedGmbH/freescout-kanban-auto-refresh/refs/heads/main/version.txt",
+    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/download/v1.0.3/KanbanAutoRefresh.zip",
     "changelogUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.3",
     "providers": [
         "Modules\\KanbanAutoRefresh\\Providers\\KanbanAutoRefreshServiceProvider"
