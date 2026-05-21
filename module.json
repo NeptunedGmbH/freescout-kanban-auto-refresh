@@ -3,12 +3,13 @@
     "alias": "kanbanautorefresh",
     "description": "Automatically refreshes Kanban boards at a configurable interval while the page is open.",
     "keywords": ["kanban", "refresh", "auto-refresh"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "active": 1,
     "order": 1000,
+    "detailsUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.1",
     "latestVersionUrl": "https://raw.githubusercontent.com/NeptunedGmbH/freescout-kanban-auto-refresh/main/module.json",
-    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/archive/refs/tags/v1.0.0.zip",
-    "changelogUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases",
+    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/archive/refs/tags/v1.0.1.zip",
+    "changelogUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.1",
     "providers": [
         "Modules\\KanbanAutoRefresh\\Providers\\KanbanAutoRefreshServiceProvider"
     ],
