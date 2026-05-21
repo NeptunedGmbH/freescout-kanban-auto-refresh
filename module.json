@@ -5,13 +5,13 @@
     "author": "NeptunedGmbH",
     "authorUrl": "https://github.com/NeptunedGmbH",
     "keywords": ["kanban", "refresh", "auto-refresh"],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "active": 1,
     "order": 1000,
-    "detailsUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.2",
-    "latestVersionUrl": "https://raw.githubusercontent.com/NeptunedGmbH/freescout-kanban-auto-refresh/main/module.json",
-    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/archive/refs/tags/v1.0.2.zip",
-    "changelogUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.2",
+    "detailsUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.3",
+    "latestVersionUrl": "https://raw.githubusercontent.com/NeptunedGmbH/freescout-kanban-auto-refresh/refs/heads/main/module.json",
+    "latestVersionZipUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/archive/refs/tags/v1.0.3.zip",
+    "changelogUrl": "https://github.com/NeptunedGmbH/freescout-kanban-auto-refresh/releases/tag/v1.0.3",
     "providers": [
         "Modules\\KanbanAutoRefresh\\Providers\\KanbanAutoRefreshServiceProvider"
     ],
